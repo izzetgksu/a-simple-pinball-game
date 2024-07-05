@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\izzet\\Pinball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\NewBehaviourScript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\Firlatici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Firlatici.cs",
+              "DocumentMoniker": "C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\Firlatici.cs",
+              "RelativeDocumentMoniker": "..\\My project (8)\\Assets\\Scripts\\Firlatici.cs",
+              "ToolTip": "C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\Firlatici.cs",
+              "RelativeToolTip": "..\\My project (8)\\Assets\\Scripts\\Firlatici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:38:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBehaviourScript1.cs",
+              "DocumentMoniker": "C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\NewBehaviourScript1.cs",
+              "RelativeDocumentMoniker": "..\\My project (8)\\Assets\\Scripts\\NewBehaviourScript1.cs",
+              "ToolTip": "C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\NewBehaviourScript1.cs",
+              "RelativeToolTip": "..\\My project (8)\\Assets\\Scripts\\NewBehaviourScript1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:37:56.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "..\\My project (8)\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\izzet\\My project (8)\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "..\\My project (8)\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:42:10.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
